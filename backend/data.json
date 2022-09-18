@@ -1,0 +1,111 @@
+{
+  "hamburquesas": [
+    {
+      "id": 1,
+      "name": "Combo hamburguesa Clásica",
+      "price": "13.000",
+      "image": "https://images.hola.com/imagenes/cocina/noticiaslibros/20210528190401/dia-internacional-hamburguesa-recetas-2021/0-957-457/clasica-burger-a.jpg",
+      "content": [
+        {
+          "name": "Papas",
+          "cantidad": 1
+        },
+        {
+          "name": "Gaseosa",
+          "cantidad": 1
+        }
+      ],
+      "sabores": []
+    },
+    {
+      "id": 2,
+      "name": "Combo hamburguesa Doble",
+      "price": "18.000",
+      "image": "https://images.hola.com/imagenes/cocina/noticiaslibros/20210528190401/dia-internacional-hamburguesa-recetas-2021/0-957-455/adobe-burger-1-a.jpg",
+      "content": [
+        {
+          "name": "Papas",
+          "cantidad": 1
+        },
+        {
+          "name": "Gaseosa",
+          "cantidad": 1
+        }
+      ],
+      "sabores": []
+    },
+    {
+      "id": 3,
+      "name": "Combo perro caliente",
+      "price": "10.000",
+      "image": "https://mui.kitchen/__export/1624367836368/sites/muikitchen/img/2021/06/22/perros-calientes-american-burger.jpg_992635952.jpg",
+      "content": [
+        {
+          "name": "Papas",
+          "cantidad": 1
+        },
+        {
+          "name": "Gaseosa",
+          "cantidad": 1
+        }
+      ],
+      "sabores": []
+    },
+    {
+      "id": 4,
+      "name": "Porción de pizza",
+      "price": "8.000",
+      "image": "https://www.laespanolaaceites.com/wp-content/uploads/2019/06/pizza-con-chorizo-jamon-y-queso-1080x671.jpg",
+      "content": [],
+      "sabores": [
+        {
+          "name": "Jamón"
+        },
+        {
+          "name": "Hawaiana"
+        },
+        {
+          "name": "Pepperoni"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Malteada",
+      "price": "8.000",
+      "image": "https://www.cardamomo.news/__export/1616522450060/sites/debate/img/2021/03/23/xcxmo_hacer_malteadas_con_helado_receta_para_hacer_tres_sabores_1_crop1616522041690.jpeg_172596871.jpeg",
+      "content": [],
+      "sabores": [
+        {
+          "name": "Vainilla"
+        },
+        {
+          "name": "Chocolate"
+        },
+        {
+          "name": "Fresa"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Gaseosa",
+      "price": "3.000",
+      "image": "https://cdn.shopify.com/s/files/1/0492/2458/1274/products/supermercados_la_vaquita_supervaquita_gaseosa_coca_cola_10_oz_zero_bebidas_liquidas_669x669.jpg?v=1620489359",
+      "content": [],
+      "sabores": [
+        {
+          "name": "Coca-Cola"
+        },
+        {
+          "name": "Manzana"
+        },
+        {
+          "name": "Sprite"
+        }
+      ]
+    }
+  ],
+  "cart": [],
+  "pedido": []
+}
